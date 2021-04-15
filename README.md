@@ -3,7 +3,7 @@
 
 > Materi: Queue
 > Pengajar: Asisten Praktikum 2021
-## NAMA - NPM
+## RIFQI AKMAL FAUZI - 140810200021
 
 **Harap untuk membaca instruksi terlebih dahulu sampai dipahami!**
 
