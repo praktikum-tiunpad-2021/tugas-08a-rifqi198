@@ -27,6 +27,8 @@ struct Queue {
   ElementPtr<T> head;
   ElementPtr<T> tail;
 };
+template <typename T>
+Queue<T> q;
 //Queue<T> q;
 
 /**
@@ -37,7 +39,7 @@ struct Queue {
 template <typename T>
 Queue<T> new_queue() {
   // Implementasikan di sini.
-  Queue<T> q = new_queue<T>();
+  Queue<T> q;
   q.head = nullptr;
   q.tail = nullptr;
   return q;
