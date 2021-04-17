@@ -27,9 +27,6 @@ struct Queue {
   ElementPtr<T> head;
   ElementPtr<T> tail;
 };
-template <typename T>
-Queue<T> q;
-//Queue<T> q;
 
 /**
  * @brief membuat queue baru
